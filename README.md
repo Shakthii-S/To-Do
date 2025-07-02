@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Todo Task Management Web Application
 **This project is a part of a hackathon run by
 https://www.katomaran.com**
@@ -38,3 +39,6 @@ graph TD
 
 
 
+=======
+# To-Do
+>>>>>>> 04101f41abd0ac41c98f8669838143d13cef2ee8
