@@ -1,44 +1,23 @@
-<<<<<<< HEAD
-# Todo Task Management Web Application
-**This project is a part of a hackathon run by
-https://www.katomaran.com**
-## Features
+# 🚀 TaskFlow -To-Do Full Stack Web Application
 
-- Social Login with Google and GitHub
-- Full CRUD operations for tasks
-- Share tasks with other users via email
-- Real-time updates using Supabase Realtime
-- Responsive design for all devices
-- Advanced task filtering and sorting
+“This project is a part of a hackathon run by
+https://www.katomaran.com ”
 
-## Tech Stack
-
-**Frontend**:
-- React.js
-- Tailwind CSS
-- React Query for data fetching
-
-**Backend Services**:
-- Supabase (Authentication, Database, Realtime)
-- PostgreSQL database
-
-**Deployment**:
-- Frontend hosted on Vercel
-- Backend powered by Supabase
-
-## System Architecture
-
-```mermaid
-graph TD
-    A[React Frontend] -->|REST API| B[Supabase]
-    B --> C[(PostgreSQL Database)]
-    B --> D[Authentication]
-    D --> E[Google OAuth]
-    D --> F[GitHub OAuth]
-    A -->|WebSocket| G[Realtime Updates]
+## 🎬 Live Demo
+LIVE DEMO : https://github.com/Shakthii-S/To-Do/blob/main/To-Do_Demo_Katomaran.mp4
 
 
+PROJECT LINK: https://to-do-t7wx.vercel.app/
 
-=======
-# To-Do
->>>>>>> 04101f41abd0ac41c98f8669838143d13cef2ee8
+## ✨ Key Features
+
+| Feature | Description | Tech Used |
+|---------|-------------|-----------|
+| **🔐 Smart Authentication** | Google/GitHub login with secure JWT tokens | Supabase Auth |
+| **🌐 Real-time Collaboration** | Instant task updates across all devices | Supabase Realtime |
+| **📬 Magic Links** | Email invitations with one-click join | Resend API + Edge Functions |
+| **📊 Smart Dashboard** | Visual analytics with task statistics | Chart.js |
+| **📱 Mobile Optimized** | Flawless experience on all devices | Tailwind CSS |
+
+![TaskFlow Banner](/To-Do_architecture_Diagram.png)  
+*Collaborative task management reimagined with real-time sync and effortless sharing*
