@@ -1,7 +1,6 @@
 # 🚀 TaskFlow -To-Do Full Stack Web Application
 
-“This project is a part of a hackathon run by
-https://www.katomaran.com ”
+
 
 ## 🎬 Live Demo
 LIVE DEMO : https://github.com/Shakthii-S/To-Do/blob/main/To-Do_Demo_Katomaran.mp4
