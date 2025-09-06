@@ -2,8 +2,6 @@
 
 
 
-## 🎬 Live Demo
-LIVE DEMO : https://github.com/Shakthii-S/To-Do/blob/main/To-Do_Demo_Katomaran.mp4
 
 
 PROJECT LINK: https://to-do-t7wx.vercel.app/
